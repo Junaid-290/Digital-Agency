@@ -1,6 +1,6 @@
 # Digital Agency Website
 
-A modern, fully responsive, and animated business website built for a fictional digital agency. Developed as a team internship project at **Codecelix**, showcasing frontend development skills, Cross-browser testied, UI implementation, and smooth animations.
+A modern, fully responsive, and animated business website built for a fictional digital agency. Developed as a team internship project at **Codecelix**, showcasing frontend development skills, UI implementation, and smooth animations.
 
 ---
 
@@ -168,9 +168,9 @@ http://localhost:5173
 ```
 main              ← Final production branch
 ├── Junaid        ← Integration & QA (Navbar, Footer, Routing)
-├── Fasiullah      ← About Page
-├── Shoaib      ← Services Page
-├── Ahmad       ← Portfolio Page
+├── Fasiullah     ← About Page
+├── Shoaib        ← Services Page
+├── Ahmad         ← Portfolio Page
 └── Abdullah      ← Contact Page
 ```
 
@@ -192,12 +192,13 @@ git commit -m "style: improve hero section spacing on mobile"
 
 | Role | Responsibility |
 |---|---|
-| **Asad** — Team Lead | Project setup, Hero section, Stats section, Services section |
+| **Asad** — Team Lead | Project setup, Hero section, Stats section |
 | **Junaid** — Integration & QA | Navbar, Footer, Routing, Cross-browser testing, Bug fixes |
-| **Fasiullah** — Frontend Developer | About Page |
-| **Ahmad** — Frontend Developer | Portfolio Page |
-| **Abdullah** — Frontend Developer | Contact Page |
-| **Shoaib** — Frontend Developer | Services Page |
+| **Fasiullah** — About Page | About Us, Mission & Vision, Team section |
+| **Shoaib** — Services Page | Services listing, hover animations |
+| **Ahmad** — Portfolio Page | Projects grid, hover effects |
+| **Abdullah** — Contact Page | Contact form, Google Maps, Social links |
+
 ---
 
 ## 🧪 QA Checklist
