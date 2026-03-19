@@ -5,37 +5,37 @@ const projects = [
   {
     title: 'EcoSmart Dashboard',
     category: 'Web Development',
-    image: 'https://images.unsplash.com/photo-1551288049-bbda4833effb?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/eco/800/600',
     description: 'A real-time energy monitoring dashboard for smart homes.',
   },
   {
     title: 'Aura Mobile App',
     category: 'Mobile App',
-    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/aura/800/600',
     description: 'A wellness and meditation app with personalized AI recommendations.',
   },
   {
     title: 'Zenith Brand Identity',
     category: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/zenith/800/600',
     description: 'Complete visual identity and design system for a fintech startup.',
   },
   {
     title: 'HyperLoop Logistic',
     category: 'AI & Automation',
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/hyper/800/600',
     description: 'AI-driven supply chain optimization platform.',
   },
   {
     title: 'Nexus NFT Marketplace',
     category: 'Web Development',
-    image: 'https://images.unsplash.com/photo-1620712943543-bcc4688c6827?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/nexus/800/600',
     description: 'A premium NFT marketplace for digital artists.',
   },
   {
     title: 'Pulse Fitness Wearable',
     category: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&q=80',
+    image: 'https://picsum.photos/seed/pulse/800/600',
     description: 'Interface design for a next-gen fitness tracking wearable.',
   },
 ]

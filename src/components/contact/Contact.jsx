@@ -297,9 +297,9 @@ export default function Contact() {
             <GlassCard className={cn("p-7 fade-up delay-2", mounted && "visible")}>
               <h3 className="text-xs font-bold tracking-widest uppercase text-white/40 mb-6">Contact Details</h3>
               <div className="flex flex-col gap-5">
-                <InfoItem icon="📍" label="Address" value="123 Innovation Drive, San Francisco, CA 94105" />
-                <InfoItem icon="📞" label="Phone" value="+1 (415) 555-0192" />
-                <InfoItem icon="✉️" label="Email" value="hello@nexusstudio.co" />
+                <InfoItem icon="📍" label="Address" value="1st Floor Commercial Zone, Liberty MarketGulberg, Lahore" />
+                <InfoItem icon="📞" label="Phone" value="+92-355-1111111" />
+                <InfoItem icon="✉️" label="Email" value="hello@digitalagency.co" />
                 <InfoItem icon="⏰" label="Hours" value="Mon–Fri, 9am – 6pm PST" />
               </div>
             </GlassCard>
@@ -351,7 +351,7 @@ export default function Contact() {
                         value={form.name}
                         onChange={handleChange}
                         error={errors.name}
-                        placeholder="Jane Doe"
+                        placeholder="Usman Ali"
                       />
                       <InputField
                         label="Email Address"
@@ -360,7 +360,7 @@ export default function Contact() {
                         value={form.email}
                         onChange={handleChange}
                         error={errors.email}
-                        placeholder="jane@example.com"
+                        placeholder="usman@gmail.com"
                       />
                     </div>
                     <InputField
@@ -416,7 +416,7 @@ export default function Contact() {
 
    <div className="max-w-7xl mx-auto h-[500px] m-7">
   <MapContainer
-    center={[37.7878, -122.3990]}
+    center={[31.5165, 74.3552]}
     zoom={13}
     className="h-full w-full rounded-2xl"
   >
@@ -425,8 +425,8 @@ export default function Contact() {
       url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
     />
 
-    <Marker position={[37.7878, -122.3990]}>
-      <Popup>Nexus Studio Office</Popup>
+    <Marker position={[31.5165, 74.3552]}>
+      <Popup>Digital Agency Office</Popup>
     </Marker>
   </MapContainer>
 </div>
